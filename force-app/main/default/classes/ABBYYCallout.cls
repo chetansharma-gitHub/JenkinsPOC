@@ -6,7 +6,7 @@ public class ABBYYCallout {
         //req.setEndpoint('https://cloud-westus.ocrsdk.com/v2/processImage?language=english&exportformat=txt');
         req.setEndpoint('https://cloud-westus.ocrsdk.com' + '/v2/processImage?language=english&exportformat=txt');
         req.setMethod('POST');
-         
+          
         
      
         
