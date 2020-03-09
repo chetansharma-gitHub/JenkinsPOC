@@ -1,9 +1,0 @@
-{
-  "orgName": "POC ScratchOrg1",
-  "edition": "Developer",
-  "settings": {
-    "mobileSettings": {
-      "enableS1EncryptedStoragePref2": false
-    }
-  }
-}

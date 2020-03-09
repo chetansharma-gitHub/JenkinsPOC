@@ -1,3 +1,0 @@
-<apex:page standardController="Account" action="{!'/one/one.app#/sObject/Account/list?filterName=00B7F000005kVFKUA2'}">
-    hello
-</apex:page>
