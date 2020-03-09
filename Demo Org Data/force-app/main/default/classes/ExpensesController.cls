@@ -3,6 +3,8 @@ public with sharing class ExpensesController {
     public static List<Expense__c> getExpenses() {
         // Perform isAccessible() checking first, then
         System.debug('Expences tracked'); 
+		System.debug('Here is the content');
+		
         return [SELECT Id, Name, Amount__c, Client__c, Date__c, 
                        Reimbursed__c, CreatedDate 
                 FROM Expense__c];
